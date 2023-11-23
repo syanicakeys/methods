@@ -1,7 +1,0 @@
-C:\Users\Jins\Desktop\SHAN\C#\methods\methods\bin\Debug\methods.exe.config
-C:\Users\Jins\Desktop\SHAN\C#\methods\methods\bin\Debug\methods.exe
-C:\Users\Jins\Desktop\SHAN\C#\methods\methods\bin\Debug\methods.pdb
-C:\Users\Jins\Desktop\SHAN\C#\methods\methods\obj\Debug\methods.csproj.AssemblyReference.cache
-C:\Users\Jins\Desktop\SHAN\C#\methods\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
-C:\Users\Jins\Desktop\SHAN\C#\methods\methods\obj\Debug\methods.exe
-C:\Users\Jins\Desktop\SHAN\C#\methods\methods\obj\Debug\methods.pdb
